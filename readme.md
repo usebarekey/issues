@@ -1,4 +1,4 @@
-# Barekey Issue Tracker
+# Barekey issue tracker
 
 This repository is the public issue tracker for Barekey.
 
@@ -9,7 +9,7 @@ Use it for:
 - Documentation issues
 - Developer experience problems across the product, CLI, SDK, and docs
 
-## Reporting An Issue
+## Reporting an issue
 
 Before opening a new issue:
 
@@ -20,7 +20,7 @@ Before opening a new issue:
 - Include screenshots, logs, and error output when relevant
 - Specify the affected area, such as the dashboard, CLI, SDK, API, or documentation
 
-## Security
+## security
 
 Do not report security vulnerabilities in public issues.
 
@@ -34,7 +34,7 @@ When possible, include:
 - Impact and severity assessment
 - Any suggested remediation or mitigation
 
-## Scope
+## scope
 
 This repository exists only for public issue tracking. Source code may live in separate repositories.
 
