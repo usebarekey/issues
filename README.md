@@ -21,7 +21,7 @@ Use it to:
 
 Do not post security vulnerabilities, credentials, tokens, private keys, or other sensitive material in public issues.
 
-For responsible disclosure, email: `security@usebarekey.com`
+For responsible disclosure, email: `security@barekey.dev`
 
 Please include:
 
