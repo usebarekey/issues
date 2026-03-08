@@ -1,41 +1,42 @@
-# Barekey Issues
+# Barekey Issue Tracker
 
 This repository is the public issue tracker for Barekey.
 
-Use it to:
+Use it for:
 
-- Report bugs
-- Request features
-- Track product and developer experience issues
-- Share documentation problems or unclear behavior
+- Bug reports
+- Feature requests
+- Documentation issues
+- Developer experience problems across the product, CLI, SDK, and docs
 
-## Before Opening An Issue
+## Reporting An Issue
 
-- Search existing issues first to avoid duplicates
-- Include clear reproduction steps
-- Include expected behavior and actual behavior
-- Include screenshots, logs, or request IDs when relevant
-- State which app, package, CLI command, or docs page is affected
+Before opening a new issue:
 
-## Security Vulnerabilities
+- Search existing issues for duplicates
+- Use a clear title
+- Include reproduction steps
+- Describe expected behavior and actual behavior
+- Include screenshots, logs, and error output when relevant
+- Specify the affected area, such as the dashboard, CLI, SDK, API, or documentation
 
-Do not post security vulnerabilities, credentials, tokens, private keys, or other sensitive material in public issues.
+## Security
 
-For responsible disclosure, email: `security@barekey.dev`
+Do not report security vulnerabilities in public issues.
 
-Please include:
+For responsible disclosure, contact: `security@barekey.dev`
 
-- A clear description of the issue
-- Affected surface area
-- Reproduction steps or proof of concept
-- Impact assessment
-- Any suggested remediation
+When possible, include:
 
-We will review reports privately and respond as quickly as possible.
+- A description of the issue
+- Steps to reproduce
+- Affected endpoints, packages, or product areas
+- Impact and severity assessment
+- Any suggested remediation or mitigation
 
 ## Scope
 
-This repo is for issue tracking only. Product source code may live elsewhere.
+This repository exists only for public issue tracking. Source code may live in separate repositories.
 
-If you are unsure whether something belongs here, open an issue with the best context you have and we can triage it.
+If you are unsure whether something belongs here, open an issue and we will triage it.
 Public issue tracker and responsible disclosure entrypoint for Barekey
